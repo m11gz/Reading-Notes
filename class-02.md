@@ -16,6 +16,7 @@ List 4 types of JavaScript operators. Addition, Subtraction, Assignment, Multipl
 Describe a real world Problem you could solve with a Function.
 multiply (100, 40); I used this becaause I used to use a lot pf multiplication with my last job. 
 An if statement checks a __ and if it evaluates to ___, then the code block will execute.
-What is the use of an else if? It means that line of code needs to be 
+What is the use of an else if? It means that line of code needs to be executed. 
 List 3 different types of comparison operators.
+ == != > <
 What is the difference between the logical operator && and ||?
