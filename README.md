@@ -6,11 +6,11 @@ Welcome to my repository these are my **Reading Notes** for class 201.
 ## Table of Contents ##
 [Class 1](https://m11gz.github.io/Reading-Notes/Class-01)
 
-[Class 2](https://m11gz.github.io/Reading-Notes/Class-02)
+[Class 2](https://m11gz.github.io/Reading-Notes/class-02)
 
-[Class 3](https://m11gz.github.io/Reading-Notes/Class-03)
+[Class 3](https://m11gz.github.io/Reading-Notes/class-03)
 
-[Class 4](https://m11gz.github.io/Reading-Notes/Class-04)
+[Class 4](https://m11gz.github.io/Reading-Notes/class-04)
 
 
 
