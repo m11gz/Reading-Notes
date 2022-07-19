@@ -16,7 +16,7 @@ Welcome to my repository these are my **Reading Notes** for class 201.
 
 [Class 6](https://m11gz.github.io/Reading-Notes/class-06)
 
-
+[Class 7](https://m11gz.github.io/Reading-Notes/class-07)
 
 
 If you are interested in an education with Code Fellows please follow the link below the Code Fellows logo. 
