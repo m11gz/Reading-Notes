@@ -12,6 +12,8 @@ Welcome to my repository these are my **Reading Notes** for class 201.
 
 [Class 4](https://m11gz.github.io/Reading-Notes/class-04)
 
+[Class 5](https://m11gz.github.io/Reading-Notes/class-05)
+
 
 
 
