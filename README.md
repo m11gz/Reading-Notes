@@ -1,9 +1,16 @@
-# Code-201 Reading-Notes
+Reading-Notes
 
-Welcome to my repository these are my **Reading Notes** for class 201. 
+Welcome to my repository these are my **Reading Notes** for Code Fellows
 
-## *Reading Notes* ##
+
 ## Table of Contents ##
+
+Code 102 - Intro to Software Development
+
+Code 201 - Foundations of Software Development
+
+Code 301 - Intermediate Software Development
+
 [Class 1](https://m11gz.github.io/Reading-Notes/Class-01)
 
 [Class 2](https://m11gz.github.io/Reading-Notes/class-02)
