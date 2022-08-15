@@ -7,7 +7,7 @@ Welcome to my repository these are my **Reading Notes** for Code Fellows
 
 [Code 201 - Foundations of Software Development](https://m11gz.github.io/Reading-Notes/code-201)
 
-Code 301 - Intermediate Software Development
+[Code 301 - Intermediate Software Development](https://m11gz.github.io/Reading-Notes/code-301)
 
 
 If you are interested in an education with Code Fellows please follow the link below the Code Fellows logo. 
