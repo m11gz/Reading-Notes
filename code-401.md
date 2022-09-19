@@ -6,5 +6,6 @@
 
 [Growth Mindset](https://m11gz.github.io/Reading-Notes/growthmindset)
 
+[Read 1](https://m11gz.github.io/Reading-Notes/read1)
 
 
