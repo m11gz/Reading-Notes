@@ -11,3 +11,5 @@
 [SQL](https://m11gz.github.io/Reading-Notes/sql)'
 
 [DSAA](https://m11gz.github.io/Reading-Notes/data-structures-and-algorithms)
+
+[Engineer Reads](https://m11gz.github.io/Reading-Notes/engineering-reads)
